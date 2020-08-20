@@ -1,4 +1,4 @@
 #!/bin/bash
-cd /home/ec2-user/leelaludo
+cd /tmp/CodeDeployGitHubDemo
 git pull origin master
 npm install

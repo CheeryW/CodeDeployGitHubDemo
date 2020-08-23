@@ -1,3 +1,2 @@
 #!/bin/bash
-cd /tmp/CodeDeployGitHubDemo
-git pull origin master
+sudo -u ec2-user bash -c 'cd /tmp/CodeDeployGitHubDemo; git pull origin master'
